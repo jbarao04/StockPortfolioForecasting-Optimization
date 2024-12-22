@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+seaborn
+yfinance
+fredapi
+keras-tuner
